@@ -1,3 +1,4 @@
+<!--
 # ImageProcessingOpencvPython
 Image Processing using OPENCV and python
 Title:Newspaper Headlines Extraction
@@ -14,3 +15,4 @@ heights and Draw those which are above the average. We got the title contours.
 Apply RLSA algorithm to connect the title contours and avoid noise with some heuristics. 
 Apply width heuristic for filter contours based on width. Finally, pass the images to pytesseract to get the text
 Objectives:In this OPENCV python project, we’ve built a text detector and extractor. This project describes an image analysis system that extracts newspaper headlines.
+-->
