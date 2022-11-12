@@ -1,6 +1,6 @@
 
 # ImageProcessingOpencvPython
-<br>Image Processing using OPENCV and python<br>
+## <br>Image Processing using OPENCV and python<br>
 Title: **Newspaper Headlines Extraction**<br><br>
 Objectives:In this OPENCV python project, we’ve built a text detector and extractor. This project describes an image analysis system that extracts newspaper headlines.
 This is an image analysis system that can detect and extract newspaper headlines from given newspaper iamges using Opencv and python. In this python project,
