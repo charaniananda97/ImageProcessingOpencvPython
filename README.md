@@ -6,7 +6,7 @@ Objectives:In this OPENCV python project, we’ve built a text detector and extr
 This is an image analysis system that can detect and extract newspaper headlines from given newspaper iamges using Opencv and python. In this python project,
 we’re going to make a text detector and extractor from an image 
 using opencv and OCR.<br>
-We’ll use the Tesseract engine to perform the character recognition system and the pytesseract python package to interact with Tesseract in python.
+We’ll use the Tesseract engine to perform the character recognition system and the pytesseract python package to interact with Tesseract in python.<br><br>
 Firstly, read the image in color mode. We have to find contours before find contours image must be in binary form.
 Apply RGB to binary conversion first of all convert RGB image to grayscale image 
 and then apply thresholding method using combine with binary thresh and 
