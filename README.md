@@ -1,8 +1,8 @@
 
 # ImageProcessingOpencvPython
 Image Processing using OPENCV and python
-Title:Newspaper Headlines Extraction
-This is an image analysis system that can detect and extract newspaper headlines from given newspaper iamges using Opencv and python. In this python project,
+-Title:Newspaper Headlines Extraction
+-This is an image analysis system that can detect and extract newspaper headlines from given newspaper iamges using Opencv and python. In this python project,
 we’re going to make a text detector and extractor from an image 
 using opencv and OCR. 
 We’ll use the Tesseract engine to perform the character recognition system and the pytesseract python package to interact with Tesseract in python.
